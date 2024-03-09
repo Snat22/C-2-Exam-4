@@ -2,4 +2,4 @@
 // What is Generics ?
 // Что такое Generics?
 
-System.Console.WriteLine(" Generic(Typi umumii - (not specifik)-tipy muayan nadora ) va az 2 parr. ibroat ast <<Key ,Value>> ");
+System.Console.WriteLine(" Generic(Typi umumii - (not specifik)-tipy muayan nadora )");
